@@ -1,5 +1,10 @@
 * Combining Puppeteer, Jest, and Faker
 As part of learning Jest, I wanted to experiment with UI testing.
 This content is based on and heavily borrowed from [[https://www.valentinog.com/blog/ui-testing-jest-puppetteer/][this article]]
+** Using this example
+Pull down the source files, install the dependencies, then run:
+#+BEGIN_SRC sh
+npm test
+#+END_SRC
 ** Important
 No warranties expressed or implied...use these examples at your own risk.
