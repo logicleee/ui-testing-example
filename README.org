@@ -1,3 +1,4 @@
+#+ATTR_HTML: :target _blank
 * Combining Puppeteer, Jest, and Faker
 As part of learning Jest, I wanted to experiment with UI testing.
 This content is based on and heavily borrowed from [[https://www.valentinog.com/blog/ui-testing-jest-puppetteer/][this article]]
